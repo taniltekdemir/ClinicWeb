@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinic.WinUI", "Clinik.WinUI\Clinic.WinUI.csproj", "{B304CD35-C2FE-4F7E-830B-565830137A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinic.WebApi", "Cilink.WebApi\Clinic.WebApi.csproj", "{664C4EBE-A6E1-47F1-BAF0-51F2688E7517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B304CD35-C2FE-4F7E-830B-565830137A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B304CD35-C2FE-4F7E-830B-565830137A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B304CD35-C2FE-4F7E-830B-565830137A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B304CD35-C2FE-4F7E-830B-565830137A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664C4EBE-A6E1-47F1-BAF0-51F2688E7517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664C4EBE-A6E1-47F1-BAF0-51F2688E7517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664C4EBE-A6E1-47F1-BAF0-51F2688E7517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664C4EBE-A6E1-47F1-BAF0-51F2688E7517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CDFDBAF-C119-447D-9C73-C134DA2A720B}
+	EndGlobalSection
+EndGlobal

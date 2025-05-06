@@ -1,0 +1,6 @@
+@Cilink.WebApi_HostAddress = http://localhost:5242
+
+GET {{Cilink.WebApi_HostAddress}}/api/help
+Accept: application/json
+
+###
